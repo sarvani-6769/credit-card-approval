@@ -51,3 +51,7 @@ Future Enhancements
 - Add user authentication and application history.
 - Integrate real-time database support.
 
+#TEAM MEMBERS
+Sathuluri V S S Keerthana Sarvani
+Konakanchi sai sirisha
+Syed Fayaz
